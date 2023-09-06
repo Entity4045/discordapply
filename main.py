@@ -28,7 +28,7 @@ bot.remove_command('help')
 
 async def run():
     async with bot:
-        await bot.start("MTA2NjQxMTA5NjA0NDQ3NDM5OA.GX0Tr9.v6g5IrbC_nG-XHCEyZMlCMzW0S7_xIfZrBlpIw")
+        await bot.start("")
 
 asyncio.run(run())
 
